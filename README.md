@@ -12,8 +12,7 @@ I need your help to quantify the impact of this change on the sales performance 
 
 
 
-SCHEMA USED: WEEKLY_SALES TABLE
-
+SCHEMA USED: WEEKLY_SALES TABLES
 
 Column name
 Data type
